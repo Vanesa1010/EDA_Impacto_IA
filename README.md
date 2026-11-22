@@ -55,7 +55,7 @@ Python · pandas · matplotlib · seaborn · Jupyter Notebook
 ## Cómo ejecutarlo
 
 ```
-pip install -r requirements.txt
+https://github.com/Vanesa1010/EDA_Impacto_IA.git
 ```
 
 - Para leer el proyecto completo, abrir `src/memoria.ipynb` (se ejecuta desde la carpeta `src/`).
