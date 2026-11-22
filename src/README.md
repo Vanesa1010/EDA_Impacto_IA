@@ -52,7 +52,7 @@ Python · pandas · matplotlib · seaborn · Jupyter Notebook
 ```
 
 ## Cómo ejecutarlo
-
+https://github.com/Vanesa1010/EDA_Impacto_IA.git
 
 - Para leer el proyecto completo, abrir `src/memoria.ipynb` (se ejecuta desde la carpeta `src/`).
 - Para regenerar los gráficos: `cd src/utils` y `python main.py`.
